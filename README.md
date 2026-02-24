@@ -1,4 +1,4 @@
-Disease Diagnosis System
+Disease Diagnosis System:-
 A machine learning based disease prediction system designed to assist users in identifying potential diseases based on symptoms and health indicators. The project focuses on applying data-driven techniques to build an intelligent diagnostic support tool.
 
 Project Overview:-
